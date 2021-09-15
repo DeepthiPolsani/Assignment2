@@ -1,0 +1,97 @@
+
+
+.headerset{
+    padding-top: 250px;
+    box-sizing: border-box;
+
+}
+.headerset h2{
+    font-size: 42px;
+}
+/* .our{
+    padding: 100px 0px 60px ;
+    height: 700px;
+} */
+.rowsetting{
+    margin:80px 0px !important
+}
+.numberCircle {
+    width: 45px;
+    line-height: 45px;
+    border-radius: 50%;
+   
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid red;
+    display: inline-block;}
+    .test{
+        margin-left: -18px;
+    }
+    .deep{
+        margin-top: 20px;
+    
+    }
+
+    .font-small{
+        font-size: 12px;
+        font-weight: 350;
+    }
+    .nav > li > a:hover{
+        background-color:#FCC;
+    }
+      
+    .yellow-color{
+        color: yellow;
+    }
+
+    .options i:hover{
+        background-color: skyblue;
+    }
+
+    .card{
+        border-style: none;
+    }
+    /* .container{
+        width: 250px;
+    } */
+
+    .bg-images{
+        background-color: gray;
+    }
+
+    .bg-container{
+        background-color: gray;
+    }
+
+    .circle-colors{
+        width: 3px;
+        height: 10px;
+        border-radius: 50%;
+    }
+
+    .timer{
+        border:1px solid gray;
+        display: inline-block;
+        width: 55px;
+        height: 55px;
+        padding: 8px;
+        color: white;
+    }
+
+    .bg-image{
+        background-image: url("img1.jpg");
+        background-size: cover;
+       
+    }
+
+    .sandy1{
+        margin: 18px 400px 20px 350px;
+    }
+
+    .size :hover{
+        background-color: cadetblue;
+    }
+    .sri{
+        padding-left: 59px;
+        padding-right: 59px;
+    }
